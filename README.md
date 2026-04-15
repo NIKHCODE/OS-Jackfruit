@@ -5,7 +5,7 @@
 | Name | SRN |
 |------|-----|
 | M Nikhil Sai | PES1UG24CS253 |
-| Mansi Manoj Jadhav | PES1UG24CS259 |
+| Manasi Manoj Jadhav | PES1UG24CS259 |
 
 ---
 
